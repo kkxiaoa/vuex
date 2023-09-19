@@ -5,6 +5,7 @@
 <p align="center">
   <img width="700px" src="https://raw.githubusercontent.com/vuejs/vuex/dev/docs/.vuepress/public/vuex.png">
 </p>
+123
 
 - [What is Vuex?](https://vuex.vuejs.org/)
 - [Full Documentation](http://vuex.vuejs.org/)
@@ -19,7 +20,7 @@
 
 Running the examples:
 
-``` bash
+```bash
 $ npm install
 $ npm run dev # serve examples at localhost:8080
 ```
